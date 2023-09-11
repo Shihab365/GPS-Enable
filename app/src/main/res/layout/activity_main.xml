@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:src="@drawable/map"
+        android:layout_width="100dp"
+        android:layout_height="100dp"/>
+
+    <Button
+        android:id="@+id/buttonGPS_ID"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:textColor="@android:color/white"
+        android:text="Turn on GPS"
+        android:textStyle="bold"
+        android:textSize="27dp"
+        android:textAllCaps="false"
+        android:layout_width="250dp"
+        android:layout_height="60dp"/>
+
+</LinearLayout>
