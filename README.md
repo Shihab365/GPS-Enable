@@ -6,7 +6,7 @@ Youtube: https://www.youtube.com/watch?v=4qFQlZ7MkDM&t=6s
 
 
 ## Screenshots
-<img src="/screenshots/gps.png" height="400px"/>
+<img src="/gps.png" height="400px"/>
 
 
 ## Contact
